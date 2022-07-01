@@ -1,0 +1,106 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: grey;
+
+}
+    .contain
+    {
+        background-color: rgb(222, 29, 16);
+        width: 90vw;
+        height: 80vh;
+        border: 5px solid white;
+        text-align: center;
+        font-size: 3em;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        font-family: fantasy;
+    }
+    .contain p{
+        position: absolute;
+    }
+    .contain img{
+    
+        width: 90vw;
+        height: 80vh;
+    }
+
+    .g1
+    {
+
+        background-color: rgb(221, 233, 160);
+        width: 90vw;
+        height: 80vh;
+        border: 5px solid white;
+        text-align:justify;
+        font-size: 2em;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+    }
+    .g1 p{
+        position: relative;
+
+    }
+    .g1 img{
+        margin-top: 20px;
+        margin-bottom: 15px;
+        border: 2px solid blue;
+        border-spacing: 10px;
+      
+        
+       width: 60vw;
+       height: 60vh;
+    }
+    .g2
+    {
+        background-color: rgb(160, 218, 233);
+        width: 90vw;
+        height: 80vh;
+        border: 5px solid white;
+        text-align:justify;
+        font-size: 2em;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+    }
+    .g2 p{
+
+        position: relative;
+
+    }
+    .g2 img{
+       border: 2px;
+       border-style:dashed; 
+       width: 60vw;
+       height: 60vh;
+    }
+    .g3
+    {
+        background-color: rgb(247, 28, 188);
+        width: 90vw;
+        height: 80vh;
+        border: 5px solid white;
+        text-align:justify;
+        font-size: 2em;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+    }
+    .g3 p{
+        position: relative;
+
+    }
+    .g3 img{
+        border: 2px;
+        border-style:dashed; 
+       width: 60vw;
+       height: 60vh;
+    }
